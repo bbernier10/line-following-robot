@@ -9,8 +9,11 @@ This simple Interactive C code controls a Handyboard-based robot to follow a bla
 ## Handyboard Setup
 
 Pin 1 - Left Motor 
+
 Pin 3 - Right Motor 
+
 Pin 4 - Left IR Sensor 
+
 Pin 6 - Right IR Sensor
 
 ## Usage
