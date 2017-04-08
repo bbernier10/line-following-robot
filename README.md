@@ -1,6 +1,7 @@
 # Line Following Robot
 
 Final project for ECE 001, Introduction to ECE I
+
 Coded by [Brandon Bernier](mailto:bbernier@gwu.edu)
 
 This simple Interactive C code controls a Handyboard-based robot to follow a black line and return to the start. 
@@ -8,8 +9,11 @@ This simple Interactive C code controls a Handyboard-based robot to follow a bla
 ## Handyboard Setup
 
 Pin 1 - Left Motor
+
 Pin 3 - Right Motor 
+
 Pin 4 - Left IR Sensor
+
 Pin 6 - Right IR Sensor
 
 ## Usage
